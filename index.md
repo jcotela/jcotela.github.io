@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the GitHub Page for jcotela
+
+What follows is the original template for this page:
+
+## Welcome to the GitHub Page
 
 You can use the [editor on GitHub](https://github.com/jcotela/jcotela.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
